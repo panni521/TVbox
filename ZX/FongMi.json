@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+  "spider": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
@@ -78,8 +78,8 @@
       "ext": {
         "siteUrl": "https://tgsou.uu8.pro/",
         "channelUsername": "ucpanpan,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./json/peizhi.json",
-        "filter": "./json/douban.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json",
+        "filter": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/douban.json"
       }
     },
     {
@@ -90,7 +90,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json"
       }
     },
     {
@@ -101,9 +101,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json",
         "siteUrl": "https://labipan.com/",
-        "filter": "./json/wogg.json"
+        "filter": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/wogg.json"
       }
     },
     {
@@ -114,9 +114,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json",
         "siteUrl": "http://www.muoupan.top/",
-        "filter": "./json/wogg.json"
+        "filter": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/wogg.json"
       }
     },
     {
@@ -127,9 +127,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json",
         "siteUrl": "https://www.wogg.net/",
-        "filter": "./json/wogg.json"
+        "filter": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/wogg.json"
       }
     },
     {
@@ -144,8 +144,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "json": "./json/youtube.json",
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json",
+        "json": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/youtube.json",
         "cookie": ""
       }
     },
@@ -157,8 +157,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "./lib/lf_live10_min-output.js",
-      "ext": "./json/lf_live.json"
+      "api": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/lib/lf_live10_min-output.js",
+      "ext": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/lf_live.json"
     },
     {
       "key": "哔哩FM",
@@ -172,7 +172,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./json/bilibili.json",
+        "json": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/bilibili.json",
         "cookie": ""
       }
     },
@@ -186,7 +186,7 @@
       "switchable": 0,
       "ext": {
         "channelUsername": "ucpanpan,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json"
       }
     },
     {
@@ -198,7 +198,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json"
       }
     },
     {
@@ -210,7 +210,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json"
       }
     },
     {
@@ -223,7 +223,7 @@
       "switchable": 0,
       "ext": {
         "cookie": "Hm_lvt_a15c82bda728e1e61fde8b9c2a73df91=1726904208; HMACCOUNT=C09C56F46D668C21; JSESSIONID=0F58D92DF887E188CB6739B16A9150DD; satoken=e780af26-91b5-4c57-8b3f-5b99788c4463; Hm_lpvt_a15c82bda728e1e61fde8b9c2a73df91=1726905393",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json"
       }
     },
     {
@@ -234,7 +234,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json"
       }
     },
     {
@@ -245,26 +245,8 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json"
       }
-    },
-    {
-      "key": "賤賤",
-      "name": "賤賤",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
-    },
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/alist.json"
     },
     {
       "key": "网盘集合",
@@ -275,8 +257,8 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "share": "./json/网盘集合.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json",
+        "share": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/网盘集合.json"
       }
     },
     {
@@ -288,7 +270,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://raw.githubusercontent.com/panni521/TVbox/refs/heads/main/ZX/json/peizhi.json"
       }
     },
 
